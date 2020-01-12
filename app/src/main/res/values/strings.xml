@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">JSONParser</string>
+    <string name="permission_statement">Allow us to access your internal storage so that you can choose you JSON file.</string>
+    <string name="permission_title">Read Internal Storage Permission Needed</string>
+    <string name="create">Create</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="image_description">image_description</string>
+    <string name="selector_title">Select a JSON file to Parse</string>
+    <string name="no_file_manager">Please install a File Manager.</string>
+    <string name="oops_something_wrong">Oops! Something Went Wrong.</string>
 </resources>
